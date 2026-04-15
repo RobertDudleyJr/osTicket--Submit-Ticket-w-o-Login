@@ -15,7 +15,6 @@ This tutorial outlines the prerequisites and installation steps for configuring 
 - osTicket (Help Desk Ticketing System)
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
 
 
 <h2>Operating Systems Used </h2>
